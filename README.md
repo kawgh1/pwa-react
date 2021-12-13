@@ -1,5 +1,9 @@
 # Basic Progressive Web App in React
 
+Live Site - https://pedantic-babbage-679841.netlify.app/
+
+Based on course by JavascriptMastery - https://www.youtube.com/watch?v=IaJqMcOMuDM
+
 ## Progressive Web Apps bring the best of both worlds.
 
 They can be easily created using HTML, CSS & Javascript. They can be run on all browsers, operating systems and devices. PWA's also have access to native features: they can work offline, they can be installed to your mobile device home screen and they have access to mobile features.
