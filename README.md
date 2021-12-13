@@ -14,6 +14,8 @@ They can be easily created using HTML, CSS & Javascript. They can be run on all 
 
 Twitter saw a 65% increase in pages per session, 75% more Tweets, and a 20% decrease in bounce rate, all while reducing the size of their app by over 97%.
 
+![lighthouse-report](https://raw.githubusercontent.com/kawgh1/pwa-react/main/lighthouse.png)
+
 ### Tools Used
 
 -   Axios
@@ -21,6 +23,6 @@ Twitter saw a 65% increase in pages per session, 75% more Tweets, and a 20% decr
     -   **npm install axios**
 
 -   Lighthouse CLI
-    -   **npm install lighthouse**
+    -   **npm install -g lighthouse**
     -   **lighthouse https://example.com --view**
     -   Use the CLI command when Chrome browser lighthouse report is erroring out
