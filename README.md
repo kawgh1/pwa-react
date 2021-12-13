@@ -17,4 +17,10 @@ Twitter saw a 65% increase in pages per session, 75% more Tweets, and a 20% decr
 ### Tools Used
 
 -   Axios
+
     -   **npm install axios**
+
+-   Lighthouse CLI
+    -   **npm install lighthouse**
+    -   **lighthouse https://example.com --view**
+    -   Use the CLI command when Chrome browser lighthouse report is erroring out
